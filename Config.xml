@@ -1,0 +1,36 @@
+<Config>
+  <TimeZone></TimeZone>
+  <RemoveApps>
+    <App>Microsoft.BingNews</App>
+    <App>Microsoft.BingWeather</App>
+    <App>Microsoft.DesktopAppInstaller</App>
+    <App>Microsoft.GamingApp</App>
+    <App>Microsoft.Getstarted</App>
+    <App>Microsoft.Messaging</App>
+    <App>Microsoft.Microsoft3DViewer</App>
+    <App>Microsoft.MicrosoftOfficeHub</App>
+    <App>Microsoft.MicrosoftSolitaireCollection</App>
+    <App>Microsoft.MixedReality.Portal</App>
+    <App>Microsoft.MSPaint</App>
+    <App>Microsoft.OneConnect</App>
+    <App>Microsoft.People</App>
+    <App>Microsoft.Print3D</App>
+    <App>Microsoft.SkypeApp</App>
+    <App>microsoft.windowscommunicationsapps</App>
+    <App>Microsoft.WindowsFeedbackHub</App>
+    <App>Microsoft.WindowsMaps</App>
+    <App>Microsoft.XboxApp</App>
+    <App>Microsoft.YourPhone</App>
+    <App>Microsoft.ZuneMusic</App>
+    <App>Microsoft.ZuneVideo</App>
+    <App>Clipchamp.Clipchamp</App>
+    <App>Microsoft.PowerAutomateDesktop</App>
+    <App>MicrosoftTeams</App>
+    <App>Microsoft.Windows.DevHome</App>
+    <App>Microsoft.OutlookForWindows</App>
+    <App>Microsoft.BingSearch</App>
+    <App>Microsoft.Todos</App>
+    <App>MicrosoftCorporationII.QuickAssist</App>
+    <App>Microsoft.StartExperiencesApp</App>
+  </RemoveApps>
+</Config>
