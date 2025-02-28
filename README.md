@@ -17,8 +17,8 @@ This PowerShell script automates the removal of pre-installed (bloatware) applic
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/kfuras/decrapifywindows.git
-   cd decrapifywindows
+   git clone https://github.com/kfuras/decrapify-windows.git
+   cd decrapify-windows
    ```
 2. Ensure you have the necessary permissions:
    ```powershell
